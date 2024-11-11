@@ -2,3 +2,5 @@
 
 2. https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html
 
+3. https://secml.readthedocs.io/en/stable/index.html
+
